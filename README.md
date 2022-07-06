@@ -1,1 +1,2 @@
-# avdheshcharjan.Mask-Detector
+# Mask-Detector
+by Avdhesh Charjan
